@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946974719802",
+    "firebase_url": "https://doit-a9967.firebaseio.com",
+    "project_id": "doit-a9967",
+    "storage_bucket": "doit-a9967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946974719802:android:7afdeff3a7ee9b15f49a03",
+        "android_client_info": {
+          "package_name": "com.techdecode.doit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946974719802-g9t2nf9ah92bmjma3ejsd08umjbpij1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techdecode.doit",
+            "certificate_hash": "e0f715c5435114ea01b4ee205c9115cf7b936425"
+          }
+        },
+        {
+          "client_id": "946974719802-i61v9h6vv3v543eaevt50h1g6uc1cng2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2YNKpDaJwcctVr6mQgMHCu4Tw80VPieQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946974719802-i61v9h6vv3v543eaevt50h1g6uc1cng2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
